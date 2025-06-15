@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameHubApp", "GameHubApp\GameHubApp.csproj", "{A204DE4B-A116-43A4-9741-16CFD53BF70F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A204DE4B-A116-43A4-9741-16CFD53BF70F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A204DE4B-A116-43A4-9741-16CFD53BF70F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A204DE4B-A116-43A4-9741-16CFD53BF70F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A204DE4B-A116-43A4-9741-16CFD53BF70F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B874598-3551-43E9-A8E4-5E01494F71A0}
+	EndGlobalSection
+EndGlobal

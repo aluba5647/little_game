@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\93022\\source\\repos\\GameHubApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A204DE4B-A116-43A4-9741-16CFD53BF70F}|GameHubApp\\GameHubApp.csproj|C:\\Users\\93022\\source\\repos\\GameHubApp\\gamehubapp\\blackjackform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A204DE4B-A116-43A4-9741-16CFD53BF70F}|GameHubApp\\GameHubApp.csproj|solutionrelative:gamehubapp\\blackjackform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A204DE4B-A116-43A4-9741-16CFD53BF70F}|GameHubApp\\GameHubApp.csproj|C:\\Users\\93022\\source\\repos\\GameHubApp\\gamehubapp\\blackjackform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A204DE4B-A116-43A4-9741-16CFD53BF70F}|GameHubApp\\GameHubApp.csproj|solutionrelative:gamehubapp\\blackjackform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A204DE4B-A116-43A4-9741-16CFD53BF70F}|GameHubApp\\GameHubApp.csproj|C:\\Users\\93022\\source\\repos\\GameHubApp\\gamehubapp\\leaderboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A204DE4B-A116-43A4-9741-16CFD53BF70F}|GameHubApp\\GameHubApp.csproj|solutionrelative:gamehubapp\\leaderboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A204DE4B-A116-43A4-9741-16CFD53BF70F}|GameHubApp\\GameHubApp.csproj|C:\\Users\\93022\\source\\repos\\GameHubApp\\gamehubapp\\dicegameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A204DE4B-A116-43A4-9741-16CFD53BF70F}|GameHubApp\\GameHubApp.csproj|solutionrelative:gamehubapp\\dicegameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A204DE4B-A116-43A4-9741-16CFD53BF70F}|GameHubApp\\GameHubApp.csproj|C:\\Users\\93022\\source\\repos\\GameHubApp\\gamehubapp\\gomokuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A204DE4B-A116-43A4-9741-16CFD53BF70F}|GameHubApp\\GameHubApp.csproj|solutionrelative:gamehubapp\\gomokuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A204DE4B-A116-43A4-9741-16CFD53BF70F}|GameHubApp\\GameHubApp.csproj|C:\\Users\\93022\\source\\repos\\GameHubApp\\gamehubapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A204DE4B-A116-43A4-9741-16CFD53BF70F}|GameHubApp\\GameHubApp.csproj|solutionrelative:gamehubapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A204DE4B-A116-43A4-9741-16CFD53BF70F}|GameHubApp\\GameHubApp.csproj|c:\\users\\93022\\source\\repos\\gamehubapp\\gamehubapp\\numberguessform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A204DE4B-A116-43A4-9741-16CFD53BF70F}|GameHubApp\\GameHubApp.csproj|solutionrelative:gamehubapp\\numberguessform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A204DE4B-A116-43A4-9741-16CFD53BF70F}|GameHubApp\\GameHubApp.csproj|C:\\Users\\93022\\source\\repos\\GameHubApp\\gamehubapp\\gomokuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A204DE4B-A116-43A4-9741-16CFD53BF70F}|GameHubApp\\GameHubApp.csproj|solutionrelative:gamehubapp\\gomokuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A204DE4B-A116-43A4-9741-16CFD53BF70F}|GameHubApp\\GameHubApp.csproj|C:\\Users\\93022\\source\\repos\\GameHubApp\\gamehubapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A204DE4B-A116-43A4-9741-16CFD53BF70F}|GameHubApp\\GameHubApp.csproj|solutionrelative:gamehubapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A204DE4B-A116-43A4-9741-16CFD53BF70F}|GameHubApp\\GameHubApp.csproj|C:\\Users\\93022\\source\\repos\\GameHubApp\\gamehubapp\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A204DE4B-A116-43A4-9741-16CFD53BF70F}|GameHubApp\\GameHubApp.csproj|solutionrelative:gamehubapp\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A204DE4B-A116-43A4-9741-16CFD53BF70F}|GameHubApp\\GameHubApp.csproj|C:\\Users\\93022\\source\\repos\\GameHubApp\\gamehubapp\\dicegameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A204DE4B-A116-43A4-9741-16CFD53BF70F}|GameHubApp\\GameHubApp.csproj|solutionrelative:gamehubapp\\dicegameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A204DE4B-A116-43A4-9741-16CFD53BF70F}|GameHubApp\\GameHubApp.csproj|C:\\Users\\93022\\source\\repos\\GameHubApp\\gamehubapp\\numberguessform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A204DE4B-A116-43A4-9741-16CFD53BF70F}|GameHubApp\\GameHubApp.csproj|solutionrelative:gamehubapp\\numberguessform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A204DE4B-A116-43A4-9741-16CFD53BF70F}|GameHubApp\\GameHubApp.csproj|C:\\Users\\93022\\source\\repos\\GameHubApp\\gamehubapp\\leaderboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A204DE4B-A116-43A4-9741-16CFD53BF70F}|GameHubApp\\GameHubApp.csproj|solutionrelative:gamehubapp\\leaderboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A204DE4B-A116-43A4-9741-16CFD53BF70F}|GameHubApp\\GameHubApp.csproj|C:\\Users\\93022\\source\\repos\\GameHubApp\\gamehubapp\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A204DE4B-A116-43A4-9741-16CFD53BF70F}|GameHubApp\\GameHubApp.csproj|solutionrelative:gamehubapp\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LeaderboardForm.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\93022\\source\\repos\\GameHubApp\\GameHubApp\\LeaderboardForm.cs",
+              "RelativeDocumentMoniker": "GameHubApp\\LeaderboardForm.cs",
+              "ToolTip": "C:\\Users\\93022\\source\\repos\\GameHubApp\\GameHubApp\\LeaderboardForm.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "GameHubApp\\LeaderboardForm.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T09:35:17.258Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GomokuForm.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\93022\\source\\repos\\GameHubApp\\GameHubApp\\GomokuForm.cs",
+              "RelativeDocumentMoniker": "GameHubApp\\GomokuForm.cs",
+              "ToolTip": "C:\\Users\\93022\\source\\repos\\GameHubApp\\GameHubApp\\GomokuForm.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "GameHubApp\\GomokuForm.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T09:01:20.929Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DiceGameForm.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\93022\\source\\repos\\GameHubApp\\GameHubApp\\DiceGameForm.cs",
+              "RelativeDocumentMoniker": "GameHubApp\\DiceGameForm.cs",
+              "ToolTip": "C:\\Users\\93022\\source\\repos\\GameHubApp\\GameHubApp\\DiceGameForm.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "GameHubApp\\DiceGameForm.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T23:39:53.233Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlackjackForm.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\93022\\source\\repos\\GameHubApp\\GameHubApp\\BlackjackForm.cs",
+              "RelativeDocumentMoniker": "GameHubApp\\BlackjackForm.cs",
+              "ToolTip": "C:\\Users\\93022\\source\\repos\\GameHubApp\\GameHubApp\\BlackjackForm.cs [\u8A2D\u8A08]*",
+              "RelativeToolTip": "GameHubApp\\BlackjackForm.cs [\u8A2D\u8A08]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T00:32:23.001Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlackjackForm.cs",
+              "DocumentMoniker": "C:\\Users\\93022\\source\\repos\\GameHubApp\\GameHubApp\\BlackjackForm.cs",
+              "RelativeDocumentMoniker": "GameHubApp\\BlackjackForm.cs",
+              "ToolTip": "C:\\Users\\93022\\source\\repos\\GameHubApp\\GameHubApp\\BlackjackForm.cs*",
+              "RelativeToolTip": "GameHubApp\\BlackjackForm.cs*",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAuwG8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T00:40:06.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\93022\\source\\repos\\GameHubApp\\GameHubApp\\MainForm.cs",
+              "RelativeDocumentMoniker": "GameHubApp\\MainForm.cs",
+              "ToolTip": "C:\\Users\\93022\\source\\repos\\GameHubApp\\GameHubApp\\MainForm.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "GameHubApp\\MainForm.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T23:24:37.564Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NumberGuessForm.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\93022\\source\\repos\\GameHubApp\\GameHubApp\\NumberGuessForm.cs",
+              "RelativeDocumentMoniker": "GameHubApp\\NumberGuessForm.cs",
+              "ToolTip": "C:\\Users\\93022\\source\\repos\\GameHubApp\\GameHubApp\\NumberGuessForm.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "GameHubApp\\NumberGuessForm.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T09:13:38.395Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GomokuForm.cs",
+              "DocumentMoniker": "C:\\Users\\93022\\source\\repos\\GameHubApp\\GameHubApp\\GomokuForm.cs",
+              "RelativeDocumentMoniker": "GameHubApp\\GomokuForm.cs",
+              "ToolTip": "C:\\Users\\93022\\source\\repos\\GameHubApp\\GameHubApp\\GomokuForm.cs",
+              "RelativeToolTip": "GameHubApp\\GomokuForm.cs",
+              "ViewState": "AgIAACEBAAAAAAAAAAAkwC0BAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T07:30:35.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\93022\\source\\repos\\GameHubApp\\GameHubApp\\MainForm.cs",
+              "RelativeDocumentMoniker": "GameHubApp\\MainForm.cs",
+              "ToolTip": "C:\\Users\\93022\\source\\repos\\GameHubApp\\GameHubApp\\MainForm.cs",
+              "RelativeToolTip": "GameHubApp\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T23:28:44.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\93022\\source\\repos\\GameHubApp\\GameHubApp\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "GameHubApp\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\93022\\source\\repos\\GameHubApp\\GameHubApp\\Properties\\Resources.resx",
+              "RelativeToolTip": "GameHubApp\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-14T06:28:06.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DiceGameForm.cs",
+              "DocumentMoniker": "C:\\Users\\93022\\source\\repos\\GameHubApp\\GameHubApp\\DiceGameForm.cs",
+              "RelativeDocumentMoniker": "GameHubApp\\DiceGameForm.cs",
+              "ToolTip": "C:\\Users\\93022\\source\\repos\\GameHubApp\\GameHubApp\\DiceGameForm.cs",
+              "RelativeToolTip": "GameHubApp\\DiceGameForm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T23:47:08.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NumberGuessForm.cs",
+              "DocumentMoniker": "C:\\Users\\93022\\source\\repos\\GameHubApp\\GameHubApp\\NumberGuessForm.cs",
+              "RelativeDocumentMoniker": "GameHubApp\\NumberGuessForm.cs",
+              "ToolTip": "C:\\Users\\93022\\source\\repos\\GameHubApp\\GameHubApp\\NumberGuessForm.cs",
+              "RelativeToolTip": "GameHubApp\\NumberGuessForm.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAgwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T09:20:07.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LeaderboardForm.cs",
+              "DocumentMoniker": "C:\\Users\\93022\\source\\repos\\GameHubApp\\GameHubApp\\LeaderboardForm.cs",
+              "RelativeDocumentMoniker": "GameHubApp\\LeaderboardForm.cs",
+              "ToolTip": "C:\\Users\\93022\\source\\repos\\GameHubApp\\GameHubApp\\LeaderboardForm.cs",
+              "RelativeToolTip": "GameHubApp\\LeaderboardForm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T09:45:03.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\93022\\source\\repos\\GameHubApp\\GameHubApp\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "GameHubApp\\Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\93022\\source\\repos\\GameHubApp\\GameHubApp\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "GameHubApp\\Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T00:21:57.491Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
